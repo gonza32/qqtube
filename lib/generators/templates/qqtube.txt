@@ -1,7 +1,7 @@
 Qqtube.setup do |config|
 	config.api_key => " your_api_key" # Your unique API key. This is specific to your account. Do not give it out or lose it!
 	config.action => 'add' # The action to perform. This section is for adding a submission so use "add" . Retrieving stats is further below on this page.
-	config.url => "https://www.youtube.com/watch?v=jofNR_WkoCE" # Where to deliver our services to. For best compatability you should strip out unneeded information
+	config.url => "https://www.youtube.com/watch?v=B_m3kvkF_CM" # Where to deliver our services to. For best compatability you should strip out unneeded information
 	config.quantity => 1000 # Amount to deliver.
 	config.id_service => 3 # Which service to use. Please see the pricing page for service IDs (note: You must have an active API key to see service IDs)
 	
